@@ -50,7 +50,7 @@ Content-Type: application/json
 }
 
 ### Delete existing book
-DELETE {{host}}/books/3
+DELETE {{host}}/books/9
 
 ### Delete nonexistent book
 DELETE {{host}}/books/18
