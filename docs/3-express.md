@@ -63,7 +63,7 @@
    `server.js`
 
    ```js
-   app.use("/books", require("./app/books"));
+   app.use("/books", require("./api/books"));
    ```
 
     </details>
