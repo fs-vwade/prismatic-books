@@ -6,10 +6,10 @@ The **solution** branch contains documented solution code. The commit history of
 
 ## Table of Contents
 
-1. [Initialize the Database](/docs/init_db.md)
-1. [Seed the Database](/docs/seed_db.md)
-1. [Serve the Data with Express](/docs/express.md)
+1. [Initialize the Database](/docs/1-init_db.md)
+1. [Seed the Database](/docs/2-seed_db.md)
+1. [Serve the Data with Express](/docs/3-express.md)
 
 ## Extensions
 
-If you're done early, or want to see how this code might be improved, checkout [possible extensions](/docs/extensions.md).
+If you're done early, or want to see how this code might be improved, checkout [possible extensions](/docs/4-extensions.md).
